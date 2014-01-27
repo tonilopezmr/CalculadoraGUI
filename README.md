@@ -1,22 +1,20 @@
 CalculadoraGUI
-
 ==============
 
 Calculadora Graphical user interface 3.4 
 
 
-Este proyecto ha sido realizado por Antonio López Marín, y la interfaz de la calculadora basica Antonio Rodrigo Gea López.
-He realizado este proyecto de la forma mas profesional que hemos sabido hacerlo con los conocimientos del año pasado.
+Este proyecto ha sido realizado por Antonio Lï¿½pez Marï¿½n, y la interfaz de la calculadora basica Antonio Rodrigo Gea Lï¿½pez.
+He realizado este proyecto de la forma mas profesional que hemos sabido hacerlo con los conocimientos del aï¿½o pasado.
 
 
 Es una calculadora de escritorio parecida a la que trae windows incorporada.
 
-Las funcionalidades se han ido añadiendo poco a poco, conforme avanzaban las semanas.
+Las funcionalidades se han ido aï¿½adiendo poco a poco, conforme avanzaban las semanas.
 
 Importante incluir la carpeta de Javadoc, para desde la calculadora poder verlo.
 
 INFORMACION
-
 ==============
 
 La Calculadora GUI escrita en Java 7 con licencia GNU v3, sigue el patron MVC.
@@ -27,19 +25,18 @@ Licencia GNU v3: http://www.gnu.org/licenses/gpl.html
 
 La interfaz utiliza el Glass Pane para poner un punto en cada boton que pulses de la calculadora.
 
-Patrones de diseño implementados:
+Patrones de diseï¿½o implementados:
 	-Modelo vista controlador, separacion por capas.
 	-Patron Command, para al acciones de teclado.
 
 FUNCIONALIDAD
-
 ==============
 
 La calculadora segun los modos de calculadora que existen realiza las siguientes operaciones:
 
 - Modo Basico(Basic):
     
-	- Operaciones aritmetricas: suma, resta, multiplicación, división y potencia. 
+	- Operaciones aritmetricas: suma, resta, multiplicaciï¿½n, divisiï¿½n y potencia. 
 
 - Modo Programador:
    
@@ -56,7 +53,7 @@ La calculadora segun los modos de calculadora que existen realiza las siguientes
 	- Las tabla de verdad: AND, OR, XOR, NOT 
 
 -Calcula las posiciones de numeros primos:
-	-Su operacion es averiguar el numero primo que esta en una posición, y puedes regular la velocidad de calculo.
+	-Su operacion es averiguar el numero primo que esta en una posiciï¿½n, y puedes regular la velocidad de calculo.
 	-Se puede cancelar el calculo si se desea.
 
 -Puede cortar y pegar los numeros.
